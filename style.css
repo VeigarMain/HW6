@@ -1,0 +1,24 @@
+
+  
+
+.green {
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
+
+.purple {
+    background-color: purple;
+}
+
+
+#forecast {
+    position: absolute;
+    left: -2%;
+}
+.input {
+    padding: 50px 50px 50px 50px;
+    position: relative;
+}
+/* possible media query after I submit.. */
